@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class UsoWrappers {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Integer.parseInt()
+        System.out.print("Digite sua idade (como texto): ");
+        String idadeTexto = scanner.nextLine();
+        int idade = Integer.parseInt(idadeTexto);
+        System.out.println("Sua idade somada com 5: " + (idade + 5));
+
+        // Character.isLetter()
+        System.out.print("Digite um caractere: ");
+        char caractere = scanner.nextLine().charAt(0);
+        boolean ehLetra = Character.isLetter(caractere);
+        System.out.println("É uma letra? " + ehLetra);
+
+        // String.toUpperCase()
+        System.out.print("Digite seu nome: ");
+        String nome = scanner.nextLine();
+        System.out.println("Seu nome em maiúsculas: " + nome.toUpperCase());
+
+        scanner.close();
+    }
+}
