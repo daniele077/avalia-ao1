@@ -1,0 +1,24 @@
+1
+public class Aluno {
+    String nomeCompleto;(danieledearaujosilva)
+    int idade;(16)
+    double altura;(1,58)
+    boolean matriculado;(sim)
+}
+
+
+2
+public class Produto {
+    String nomeProduto;(sardinha)
+    int quantidadeEstoque;(2000)
+    double precoUnitario;(5,00)
+    boolean disponivelParaVenda;(sim)
+}
+
+3
+public class Evento {
+    String nomeEvento;(aniversario)
+    int numeroParticipantes;(100)
+    double precoIngresso;(15,00)
+    boolean eventoPresencial;(sim)
+}
