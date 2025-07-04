@@ -1,30 +1,64 @@
-Questão 01
-Pergunta: Qual das alternativas descreve corretamente uma característica de uma linguagem de baixo nível?
-Resposta correta: c) Oferece maior controle sobre o hardware, mas é mais difícil de programar.
+Questão 01 - Qual das alternativas descreve corretamente uma
+característica de uma linguagem de baixo nível?
 
-Explicação: Linguagens de baixo nível, como Assembly, são mais próximas da linguagem de máquina e permitem controle direto sobre o hardware, porém são mais difíceis de aprender e usar.
+a) É independente de hardware e fácil de aprender.
+b) Possui sintaxe próxima da linguagem humana.
+x c) Oferece maior controle sobre o hardware, mas é mais difícil de
+programar.
+d) É executada diretamente pela JVM.
 
-Questão 02
-Pergunta: Assinale a alternativa que apresenta apenas linguagens de alto nível:
-Resposta correta: b) C, Java e Python
+Questão 02 - Assinale a alternativa que apresenta apenas
+linguagens de alto nível:
 
-Explicação: C, Java e Python são todas linguagens de alto nível, apesar de C estar mais próxima do hardware. Assembly e Machine Code são linguagens de baixo nível.
+a) Assembly, Java e Python
+b) C, Java e Python
+x c) Java, Python e Machine Code
+d) C, Assembly e Machine Code
 
-Questão 03
-Pergunta: Qual das alternativas representa uma característica de um algoritmo compilado?
-Resposta correta: a) É traduzido para código de máquina antes de ser executado.
+Questão 03 - Qual das alternativas representa uma característica de
+um algoritmo compilado?
 
-Explicação: Um algoritmo compilado passa por uma etapa de compilação, onde é convertido em código de máquina (executável) antes da execução.
+a) É traduzido para código de máquina antes de ser executado.
+b) É interpretado linha por linha durante a execução.
+c) Não precisa de um arquivo executável para ser rodado.
+x d) Não precisa ser traduzido para código de máquina.
 
-Questão 04
-Pergunta: Qual é a principal vantagem de programas interpretados?
-Resposta correta: b) Podem ser executados imediatamente sem uma etapa de compilação.
+Questão 04 - Qual é a principal vantagem de programas
+interpretados?
 
-Explicação: Linguagens interpretadas (como Python) são executadas linha por linha, sem a necessidade de uma compilação prévia, o que agiliza testes e desenvolvimento.
+x a) Têm melhor desempenho em comparação com programas
+compilados.
+b) Podem ser executados imediatamente sem uma etapa de
+compilação.
+c) Não dependem de um ambiente de execução.
+d) Sempre geram código binário antes de serem executados.
 
-Questão 05
-Pergunta: O que acontece no processo de execução de um programa em Java?
-Resposta correta: c) O código é compilado para bytecode e, em seguida, interpretado pela JVM.
+Questão 05 - O que acontece no processo de execução de um
+programa em Java?
 
-Explicação: O código Java é primeiro compilado em bytecode (intermediário), que é então interpretado (ou compilado just-in-time) pela Máquina Virtual Java (JVM).
+x a) O código é interpretado diretamente pela JVM sem compilação.
+b) O código é compilado para código binário específico do sistema
+operacional.
+c) O código é compilado para bytecode e, em seguida, interpretado
+pela JVM.
+d) O código é executado sem precisar de compilação ou
+interpretação.
 
+Questão 06 - Qual é a principal finalidade de um algoritmo?
+
+x a) Resolver problemas de hardware em computadores.
+b) Definir passos lógicos para solucionar um problema.
+c) Compilar programas para execução direta.
+d) Traduzir linguagens de alto nível para baixo nível.
+
+Questão 07 - O que é lógica de programação?
+
+a) O estudo de como os computadores processam dados
+internamente.
+b) A sequência de passos necessários para criar um sistema
+operacional.
+c) A habilidade de organizar e estruturar pensamentos para resolver
+
+problemas de forma lógica e eficiente.
+x d) O conjunto de regras que define a sintaxe de uma linguagem de
+programação.
